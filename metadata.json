@@ -1,0 +1,6 @@
+{
+  "name": "PROJECT CITY GROUP",
+  "description": "PROJECT CITY GROUP — Xodimlarni boshqarish tizimi. Kadrlar hisobi, oylik maoshlar, ta'tillar, mukofotlar va korporativ hisobotlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
